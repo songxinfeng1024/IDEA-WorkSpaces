@@ -7,9 +7,9 @@ package com.tuling.test
  * Time:6:30
  */
 object StringTest {
-    @JvmStatic
+
     fun main(args: Array<String>) {
         StringUtils2.getString("xx")
-        println()
+        System.out.println();
     }
 }
